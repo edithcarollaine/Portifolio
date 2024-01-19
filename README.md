@@ -10,4 +10,10 @@
     CSS
 
 # Finalidade:
-    O Portifólio foi criado para atender de forma mais dinâmica mostrando um pouco sobre mim e sobre meus projetos, além das minhas redes sociais mais utilizadas. 
+    O Portifólio foi criado para atender de 
+    
+    forma mais dinâmica mostrando um pouco 
+    
+    sobre mim e sobre meus projetos, além das 
+    
+    minhas redes sociais mais utilizadas. 
