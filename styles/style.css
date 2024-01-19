@@ -108,11 +108,10 @@ body{
 }
 
 .apresentacao__imagem{
-    /*border: 5px solid var(--cor-terciaria);*/
     border-radius: 16%;
 }
 
-@media (max-width: 1300px){
+@media (max-width: 1200px){
 
     .cabecalho{
         padding: 10% 0% 0% 5%;
@@ -129,6 +128,7 @@ body{
     .apresentacao__conteudo{
         width: auto;
     }
+
 }
 
 .rodape{

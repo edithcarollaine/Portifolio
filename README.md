@@ -1,6 +1,6 @@
-# Link do site do Portifólio:
+# Link do site do Portifólio baseado neste repositório:
 
-    Não foi feito o deploy ainda.
+    https://portifolio-edithcarollaine.vercel.app
 
 # Linguagens de programação utilizadas:
     Nenhuma
@@ -10,7 +10,7 @@
     CSS
 
 # Finalidade:
-    O Portifólio foi criado para atender de 
+    Meu primeiro Portifólio foi criado para atender de 
     
     forma mais dinâmica mostrando um pouco 
     
